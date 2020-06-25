@@ -24,3 +24,6 @@ yarn-error.log*
 
 # credentials
 .env
+
+# css
+/src/tailwind.generated.css
